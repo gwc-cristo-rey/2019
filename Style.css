@@ -1,0 +1,37 @@
+.title {
+    margin-bottom: 50px;
+}
+
+.emotion-imgs {
+    width: 300px;
+    height: 280px;
+}
+
+.border-success {
+    text-align: center;
+    padding-bottom: 100px;
+}
+
+.border-warning {
+    text-align: center;
+}
+
+.border-danger {
+    text-align: center;
+    padding-bottom: 100px;
+}
+
+.border {
+    margin: 10px;
+}
+
+.title {
+    text-align: center;
+    font-family: 'Fredoka One', cursive;
+}
+
+.nunito {
+    font-family: 'Nunito Sans', sans-serif;
+    padding: 15px;
+    font-size: 20px;
+}
