@@ -1,1 +1,1 @@
-# cristo-rey-girls-who-code-club-2019.github.io
+# gwc-cristo-rey.github.io
