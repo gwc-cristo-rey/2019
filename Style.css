@@ -1,9 +1,10 @@
 body {
-    background-image: url('./images/rainbow_background.jpg');
+    background-color: #f1f1f1;
+    color: #6b5e62;
 }
 
 .title {
-    margin-bottom: 50px;
+    margin: 50px;
 }
 
 .emotion-imgs {
@@ -11,21 +12,21 @@ body {
     height: 150px;
 }
 
-.border-success {
-    text-align: center;
+.happy-color {
+    background-color: #a6b094;
+}
+
+.sad-color {
+    background-color: #b4a1a1;
+}
+
+.angry-color {
+    background-color: #fe9a8b;
+}
+
+.card {
+    text-align:center;
     padding-bottom: 100px;
-}
-
-.border-warning {
-    text-align: center;
-}
-
-.border-danger {
-    text-align: center;
-    padding-bottom: 100px;
-}
-
-.border {
     margin: 10px;
 }
 
@@ -34,12 +35,9 @@ body {
     font-family: 'Fredoka One', cursive;
 }
 
-.nunito {
-    font-family: 'Nunito Sans', sans-serif;
+.card-title {
+    font-family: 'Fredoka One', cursive;
     padding: 15px;
-    font-size: 20px;
-}
-
-.spacing {
-    margin: 10px;
+    font-size: 28px;
+    color: #f1f1f1;
 }
